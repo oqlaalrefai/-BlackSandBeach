@@ -17,7 +17,7 @@ else if (x == 2) {
 else {
   alert('you entered incorrect value')
 }
-document.write('  this   image  that   you  want   to show you from old assignment \n')
+document.write('  this   image  that   you  want   to show you from old assignment <br/><br/>')
 var y =prompt("enter number of images that you want to show")
 
 while(y<0 || y>11)
