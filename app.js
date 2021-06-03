@@ -25,4 +25,4 @@ while(y<0 || y>11)
   {y= prompt('please enter value betwee 1 and 10')}
 
 for (i=0;i<y;i++)
-    {  document.write('<br/>'+'<img src="https://www.usnews.com/dims4/USNEWS/df913ab/2147483647/resize/1200x%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F74%2F3f%2F6b732db34d73bdc0263f661a7963%2F10-guatemala-getty.jpg" height="100px" width="100px" />')}
+    {  document.write('<br/> <img src="https://www.usnews.com/dims4/USNEWS/df913ab/2147483647/resize/1200x%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F74%2F3f%2F6b732db34d73bdc0263f661a7963%2F10-guatemala-getty.jpg" height="100px" width="100px" />')}
