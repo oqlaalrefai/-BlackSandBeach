@@ -6,7 +6,7 @@ x = prompt("enter the number of beach that you want to see")
 
 
 if (x == 1) {
-document.write('  this   image  that   you  want   to show you from old assignment <br/><br/>')
+document.write('  this   image  that   you  want   to show you from old assignment <br/>')
   document.write('<img src="https://www.usnews.com/dims4/USNEWS/543934b/2147483647/resize/1200x%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F0b%2F97%2Feaa9549e423f925510656e7fb3c2%2F6-spain-beach-getty.jpg" height="100px" width="100px" /> <br/>')
 
 }
