@@ -5,6 +5,7 @@ x = prompt("enter the number of beach that you want to see")
 
 
 
+document.write('  this   image  that   you  want   to show you from old assignment <br/><br/>')
 if (x == 1) {
   document.write('<img src="https://www.usnews.com/dims4/USNEWS/543934b/2147483647/resize/1200x%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F0b%2F97%2Feaa9549e423f925510656e7fb3c2%2F6-spain-beach-getty.jpg" height="100px" width="100px" /> <br/>')
 
@@ -17,7 +18,6 @@ else if (x == 2) {
 else {
   alert('you entered incorrect value')
 }
-document.write('  this   image  that   you  want   to show you from old assignment <br/><br/>')
 var y =prompt("enter number of images that you want to show")
 
 while(y<0 || y>11)
